@@ -1,7 +1,3 @@
-Aqui está um **README** profissional, claro e direto, descrevendo o objetivo e tudo que será visto nos 4 projetos fullstack — perfeito para o seu GitHub ou documentação inicial do seu plano de estudos 👇
-
----
-
 # 🚀 Ciclo de Projetos Fullstack — Do Básico ao Avançado
 
 Este repositório reúne **4 projetos completos de desenvolvimento web fullstack**, organizados do **mais simples ao mais avançado**, com o objetivo de proporcionar uma formação prática, progressiva e sólida para quem deseja dominar backend, frontend, bancos de dados, autenticação, real-time e arquitetura moderna de software.
